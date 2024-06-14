@@ -1,0 +1,318 @@
+[
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/earbud/filt/eval/Umich01b_eb7_t04_s02_v02_filt.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/earbud/filt/eval/Umich01_eb6_t01_s01_v01_filt.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/earbud/filt/eval/Umich01_eb2_t03_s01_v02_filt.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/earbud/filt/eval/Umich01b_eb6_t02_s02_v02_filt.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/earbud/filt/eval/Umich01c_eb1_t02_s03_v02_filt.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/earbud/filt/eval/Umich01c_eb2_t04_s03_v02_filt.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/earbud/filt/eval/Umich01c_eb2_t02_s03_v01_filt.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/earbud/filt/eval/Umich01b_eb5_t04_s02_v02_filt.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/earbud/filt/eval/Umich01c_eb7_t04_s03_v02_filt.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/earbud/filt/eval/Umich01c_eb3_t04_s03_v02_filt.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/earbud/filt/eval/Umich01c_eb8_t02_s03_v02_filt.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/earbud/filt/eval/Umich01b_eb7_t02_s02_v02_filt.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/earbud/filt/eval/Umich01_eb5_t03_s01_v02_filt.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/earbud/filt/eval/Umich01c_eb8_t03_s03_v02_filt.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/earbud/filt/eval/Umich01b_eb8_t04_s02_v02_filt.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/earbud/filt/eval/Umich01_eb3_t02_s01_v02_filt.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/earbud/filt/eval/Umich01b_eb4_t04_s02_v02_filt.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/earbud/filt/eval/Umich01b_eb4_t03_s02_v02_filt.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/earbud/filt/eval/Umich01_eb4_t01_s01_v02_filt.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/earbud/filt/eval/Umich01_eb1_t02_s01_v02_filt.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/earbud/filt/eval/Umich01b_eb2_t01_s02_v01_filt.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/earbud/filt/eval/Umich01c_eb2_t01_s03_v01_filt.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/earbud/filt/eval/Umich01b_eb6_t01_s02_v02_filt.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/earbud/filt/eval/Umich01b_eb1_t02_s02_v02_filt.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/earbud/filt/eval/Umich09b_eb2_t03_s02_v02_filt.flac",
+        "labels": "present-holosystolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/earbud/filt/eval/Umich09_eb5_t03_s01_v02_filt.flac",
+        "labels": "present-holosystolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/earbud/filt/eval/Umich09_eb8_t04_s01_v02_filt.flac",
+        "labels": "present-holosystolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/earbud/filt/eval/Umich09b_eb5_t01_s02_v02_filt.flac",
+        "labels": "present-holosystolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/earbud/filt/eval/Umich09_eb2_t02_s01_v02_filt.flac",
+        "labels": "present-holosystolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/earbud/filt/eval/Umich09b_eb3_t01_s02_v02_filt.flac",
+        "labels": "present-holosystolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/earbud/filt/eval/Umich09b_eb3_t02_s02_v02_filt.flac",
+        "labels": "present-holosystolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/earbud/filt/eval/Umich09_eb1_t06_s01_v02_filt.flac",
+        "labels": "present-holosystolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/earbud/filt/eval/Umich09_eb7_t03_s01_v02_filt.flac",
+        "labels": "present-holosystolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/earbud/filt/eval/Umich09_eb3_t01_s01_v02_filt.flac",
+        "labels": "present-holosystolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/earbud/filt/eval/Umich09_eb5_t06_s01_v02_filt.flac",
+        "labels": "present-holosystolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/earbud/filt/eval/Umich09_eb5_t04_s01_v02_filt.flac",
+        "labels": "present-holosystolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/earbud/filt/eval/Umich09b_eb4_t02_s02_v02_filt.flac",
+        "labels": "present-holosystolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/earbud/filt/eval/Umich08_eb2_t04_s01_v02_filt.flac",
+        "labels": "present-late-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/earbud/filt/eval/Umich08_eb1_t03_s01_v02_filt.flac",
+        "labels": "present-late-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/earbud/filt/eval/Umich08b_eb3_t02_s02_v02_filt.flac",
+        "labels": "present-late-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/earbud/filt/eval/Umich08b_eb6_t02_s02_v02_filt.flac",
+        "labels": "present-late-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/earbud/filt/eval/Umich08_eb2_t05_s01_v02_filt.flac",
+        "labels": "present-late-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/earbud/filt/eval/Umich08b_eb1_t01_s02_v02_filt.flac",
+        "labels": "present-late-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/earbud/filt/eval/Umich08b_eb4_t03_s02_v02_filt.flac",
+        "labels": "present-late-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/earbud/filt/eval/Umich08_eb8_t03_s01_v02_filt.flac",
+        "labels": "present-late-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/earbud/filt/eval/Umich08_eb6_t04_s01_v02_filt.flac",
+        "labels": "present-late-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/earbud/filt/eval/Umich08b_eb4_t02_s02_v02_filt.flac",
+        "labels": "present-late-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/earbud/filt/eval/Umich08_eb3_t01_s01_v02_filt.flac",
+        "labels": "present-late-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/earbud/filt/eval/Umich08_eb4_t01_s01_v02_filt.flac",
+        "labels": "present-late-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/earbud/filt/eval/Umich08b_eb7_t01_s02_v02_filt.flac",
+        "labels": "present-late-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/earbud/filt/eval/Umich06b_eb8_t01_s02_v02_filt.flac",
+        "labels": "present-early-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/earbud/filt/eval/Umich06_eb4_t01_s01_v02_filt.flac",
+        "labels": "present-early-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/earbud/filt/eval/Umich06_eb7_t04_s01_v02_filt.flac",
+        "labels": "present-early-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/earbud/filt/eval/Umich06_eb4_t02_s01_v02_filt.flac",
+        "labels": "present-early-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/earbud/filt/eval/Umich06_eb2_t03_s01_v02_filt.flac",
+        "labels": "present-early-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/earbud/filt/eval/Umich06b_eb5_t02_s02_v02_filt.flac",
+        "labels": "present-early-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/earbud/filt/eval/Umich06_eb8_t03_s01_v02_filt.flac",
+        "labels": "present-early-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/earbud/filt/eval/Umich06_eb4_t03_s01_v02_filt.flac",
+        "labels": "present-early-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/earbud/filt/eval/Umich06b_eb6_t01_s02_v02_filt.flac",
+        "labels": "present-early-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/earbud/filt/eval/Umich06_eb1_t01_s01_v02_filt.flac",
+        "labels": "present-early-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/earbud/filt/eval/Umich06_eb2_t01_s01_v01_filt.flac",
+        "labels": "present-early-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/earbud/filt/eval/Umich06b_eb6_t02_s02_v02_filt.flac",
+        "labels": "present-early-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/earbud/filt/eval/Umich06_eb5_t03_s01_v02_filt.flac",
+        "labels": "present-early-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/earbud/filt/eval/Umich06_eb5_t04_s01_v02_filt.flac",
+        "labels": "present-early-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/earbud/filt/eval/Umich06_eb7_t03_s01_v02_filt.flac",
+        "labels": "present-early-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/earbud/filt/eval/Umich06b_eb2_t03_s02_v02_filt.flac",
+        "labels": "present-early-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/earbud/filt/eval/Umich07_eb7_t03_s01_v02_filt.flac",
+        "labels": "present-mid-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/earbud/filt/eval/Umich07b_eb2_t01_s02_v02_filt.flac",
+        "labels": "present-mid-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/earbud/filt/eval/Umich07_eb8_t01_s01_v02_filt.flac",
+        "labels": "present-mid-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/earbud/filt/eval/Umich07_eb6_t03_s01_v02_filt.flac",
+        "labels": "present-mid-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/earbud/filt/eval/Umich07_eb5_t02_s01_v02_filt.flac",
+        "labels": "present-mid-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/earbud/filt/eval/Umich07_eb3_t03_s01_v02_filt.flac",
+        "labels": "present-mid-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/earbud/filt/eval/Umich07b_eb1_t02_s02_v02_filt.flac",
+        "labels": "present-mid-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/earbud/filt/eval/Umich07b_eb1_t04_s02_v02_filt.flac",
+        "labels": "present-mid-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/earbud/filt/eval/Umich07b_eb5_t04_s02_v02_filt.flac",
+        "labels": "present-mid-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/earbud/filt/eval/Umich07b_eb2_t03_s02_v02_filt.flac",
+        "labels": "present-mid-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/earbud/filt/eval/Umich07_eb1_t03_s01_v02_filt.flac",
+        "labels": "present-mid-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/earbud/filt/eval/Umich07_eb4_t04_s01_v02_filt.flac",
+        "labels": "present-mid-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/earbud/filt/eval/Umich07_eb1_t01_s01_v02_filt.flac",
+        "labels": "present-mid-systolic"
+    }
+]
