@@ -84,7 +84,6 @@ The pretrained model weights for our SSAMBA model in sizes (base, small, and tin
 [Pretrained Model Weights](https://drive.google.com/drive/u/1/folders/1E1gf5SxdSByDJ16_WQvzTKn8lIoYtZiX)
 
 ## Finetuning
-TODO: Add finetune datasets 
 To finetune the pretrained SSAMBA on the balanced earbud recording dataset, follow these steps:
 
 1. **Navigate to the finetuning directory:**
@@ -95,36 +94,23 @@ To finetune the pretrained SSAMBA on the balanced earbud recording dataset, foll
    
 
 2. **Adjust the paths and hyperparameters:**
-   Edit `run_cir_amba.sh` in the audio_mamba/murmur/finetune directory. Adjust the paths and hyperparameters as needed for your dataset.
-
-
-3. **Run the job submission script:**
-   Execute the `run_cir_amba.sh` script in the terminal to start the finetuning process:
+   Edit `run_cir_amba.sh` in the audio_mamba/murmur/finetune directory for finetuning on the earbud data. Adjust the paths and hyperparameters as needed for your dataset.
+    change the paths for all the following to where the filt, lp, or wav directories (json files for train and eval) as well as the class-labels-indicies directory is for the earbud         data. 
    ```bash
-   ./run_cir_amba.sh
+   te_data
+   tr_data
+   pretrain_path
+   conda activate env_name
+   label-csv
    ```
 
+4. **Run the job submission script:**
+   Execute the `run_cir_amba.sh` script in the terminal to start the finetuning process (if pre-trained model is the tiny size):
+   ```bash
+   ./run_cir_amba.sh tiny
+   ```
 
-### Step 2: Prepare the Fine-Tuning Scripts
-
-1. **Copy our files**:
-   - Copy the files from `src/finetune/voxceleb1/ssast` to `s3prl/s3prl/upstream/ssast`.
-
-### Step 3: Adjust Paths and Specify Models
-
-1. **Edit the `run_sid.sh` file**:
-   - Adjust the paths in the `run_sid.sh` file to point to the correct directories for your dataset and model.
-
-2. **Specify models in `submit_jobs_amba.sh`**:
-   - Edit the `submit_jobs_amba.sh` script to specify the models you want to fine-tune.
-
-### Step 4: Run the Fine-Tuning Script
-
-1. **Execute the `submit_jobs_amba.sh` script**:
-   - In the terminal, navigate to the directory containing `submit_jobs_amba.sh` and run:
-     ```bash
-     ./submit_jobs_amba.sh
-     ```
+   ## Fine Tune the pre-trained tiny model on each of the 3 data sets of (filt, wavs, and lp earbud datasets)
 
 
 
