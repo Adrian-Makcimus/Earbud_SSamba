@@ -1,0 +1,2522 @@
+[
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/68368_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50680_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50657_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/68952_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85210_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85216_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84762_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84992_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84994_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85246_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/68849_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84933_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/70280_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85121_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85102_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/68755_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84928_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/68887_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50261_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85019_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50222_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50688_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/68318_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50690_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85181_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/74420_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85029_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85282_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50646_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50334_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84696_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50707_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50657_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50004_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84838_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85234_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84784_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/68737_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85100_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85288_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84758_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50007_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85331_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/68737_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50210_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85279_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50113_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50318_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84912_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85116_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50037_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50080_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50699_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85164_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85162_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50345_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/68886_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50105_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85328_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/69176_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85213_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84976_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/68222_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84710_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50647_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/69161_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84803_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50649_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/68465_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85245_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/69141_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50732_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50341_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50244_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85278_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/31737_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84699_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84920_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50153_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50018_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85305_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85210_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50645_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84758_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84986_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/39403_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84851_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84883_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/49577_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50317_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84974_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/68901_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50667_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/68861_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50092_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50298_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85134_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84709_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50216_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50732_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50077_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50219_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84822_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84861_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84866_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85288_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/68698_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85122_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50677_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/68909_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/14998_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/49974_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84697_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/49808_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84994_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/49832_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/68412_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84884_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84796_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85249_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85154_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50213_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/49978_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50723_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50766_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84991_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/68394_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84769_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/63581_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/38337_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85175_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85197_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85044_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/63581_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/49842_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84776_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/68482_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85116_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84945_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50160_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84785_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50641_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50111_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/69176_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50323_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/68222_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85122_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85316_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85212_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84971_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/68260_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50015_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84699_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/49896_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50103_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/68359_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50725_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/68419_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85118_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50690_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84974_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84921_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/49661_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84753_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/68895_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85023_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50766_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50109_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84973_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85163_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85265_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/69112_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50213_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50254_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/49979_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/68407_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50776_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84793_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/39043_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/40058_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85157_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/68705_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84861_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50628_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50014_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/49842_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84977_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50789_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50334_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/23625_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50635_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85136_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85340_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85285_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50802_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50261_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/81297_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84808_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85038_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85341_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50273_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50342_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84878_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/40798_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50805_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/68901_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84973_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/82275_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50001_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85077_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/68659_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50727_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/24160_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84775_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50325_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85038_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84753_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50384_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85124_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84835_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/68213_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50117_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/49998_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84879_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85305_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50826_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50214_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50678_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50349_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84750_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/40058_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85293_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/49959_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85316_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84804_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84778_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/68741_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50103_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/49983_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50624_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85116_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85247_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85321_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84935_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84879_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50166_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50386_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/49970_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50818_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/81501_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85176_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85240_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50658_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/69095_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50797_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/14998_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85093_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84883_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/81501_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50715_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85023_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84946_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50231_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50312_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50146_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/49776_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50771_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85121_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85027_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/49562_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50278_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50339_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/49896_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85093_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/68738_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85099_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/68545_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85077_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/49577_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85335_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84839_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84711_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50264_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50314_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/23625_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50254_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/68260_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85349_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85296_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50049_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85103_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50784_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50334_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84829_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50109_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/69129_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85114_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50796_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50725_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50078_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85090_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85034_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/68909_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85093_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/49562_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/49853_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50708_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85175_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/68406_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85329_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/68412_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50812_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/68219_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84965_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85093_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50639_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85086_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50018_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85096_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/49610_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50689_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85094_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/64715_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50729_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/51331_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85091_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/68741_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85077_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84876_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50798_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85124_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/43852_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50713_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84920_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85225_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84724_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/49745_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50295_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85033_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50314_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50314_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/68260_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84778_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84852_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50297_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/68752_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50034_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85124_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84930_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/68465_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50647_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/40798_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50796_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84740_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85053_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50350_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50250_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50740_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50323_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84829_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50385_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85018_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/49561_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84798_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50299_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85114_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85027_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/49995_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50762_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/68737_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85286_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50732_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85090_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85305_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/68460_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/75440_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50325_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50327_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85123_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50219_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/68737_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50111_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50122_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84931_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/68436_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/68413_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/61610_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/80348_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85250_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/68470_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/49853_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50142_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/49998_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/68377_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50798_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84861_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85349_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/68419_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85321_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/68404_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50078_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50784_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85327_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84923_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50354_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84912_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50206_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/82275_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85239_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85020_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50802_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/68427_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/49719_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50284_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/68908_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84945_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/68427_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/68702_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/63456_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84710_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/80348_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85212_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50104_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/80348_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50323_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/49993_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84856_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50742_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84856_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84876_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50699_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50089_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84826_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85038_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/68413_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50263_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50281_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84912_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/75440_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/49930_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50646_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/49987_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/49993_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85230_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84947_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84815_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50687_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50645_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84987_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84883_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/68269_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85264_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/68682_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85258_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50723_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50080_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/49930_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50772_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84764_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84868_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50641_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/49683_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85102_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/74417_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/68186_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/68646_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50278_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50620_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50142_AV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85340_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50667_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/69176_TV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84733_PV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84808_MV.flac",
+        "labels": "absent"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85306_MV.flac",
+        "labels": "present-holosystolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/49595_MV.flac",
+        "labels": "present-holosystolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/49821_MV.flac",
+        "labels": "present-holosystolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85198_AV.flac",
+        "labels": "present-holosystolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/68560_TV.flac",
+        "labels": "present-holosystolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84802_PV.flac",
+        "labels": "present-holosystolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/68487_PV.flac",
+        "labels": "present-holosystolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84693_TV.flac",
+        "labels": "present-holosystolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/46579_AV.flac",
+        "labels": "present-holosystolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/64256_PV.flac",
+        "labels": "present-holosystolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50744_TV.flac",
+        "labels": "present-holosystolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85261_AV.flac",
+        "labels": "present-holosystolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/68423_TV.flac",
+        "labels": "present-holosystolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84718_PV.flac",
+        "labels": "present-holosystolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/57706_PV.flac",
+        "labels": "present-holosystolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85030_MV.flac",
+        "labels": "present-holosystolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85087_MV.flac",
+        "labels": "present-holosystolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84718_AV.flac",
+        "labels": "present-holosystolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/9979_AV.flac",
+        "labels": "present-holosystolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50744_MV.flac",
+        "labels": "present-holosystolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/51064_MV.flac",
+        "labels": "present-holosystolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/49824_MV.flac",
+        "labels": "present-holosystolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84863_TV.flac",
+        "labels": "present-holosystolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50260_MV.flac",
+        "labels": "present-holosystolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/69068_TV.flac",
+        "labels": "present-holosystolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50734_MV.flac",
+        "labels": "present-holosystolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50277_AV.flac",
+        "labels": "present-holosystolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85087_PV.flac",
+        "labels": "present-holosystolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85024_MV.flac",
+        "labels": "present-holosystolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84802_AV.flac",
+        "labels": "present-holosystolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/76240_AV.flac",
+        "labels": "present-holosystolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85259_AV.flac",
+        "labels": "present-holosystolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/76240_MV.flac",
+        "labels": "present-holosystolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/36327_PV.flac",
+        "labels": "present-holosystolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85133_AV.flac",
+        "labels": "present-holosystolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50233_TV.flac",
+        "labels": "present-holosystolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85172_AV.flac",
+        "labels": "present-holosystolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50736_AV.flac",
+        "labels": "present-holosystolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50118_PV.flac",
+        "labels": "present-holosystolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85110_AV.flac",
+        "labels": "present-holosystolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/49574_MV.flac",
+        "labels": "present-holosystolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/68194_PV.flac",
+        "labels": "present-holosystolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/45843_PV.flac",
+        "labels": "present-holosystolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84693_MV.flac",
+        "labels": "present-holosystolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/69147_PV.flac",
+        "labels": "present-holosystolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50056_PV.flac",
+        "labels": "present-holosystolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84854_PV.flac",
+        "labels": "present-holosystolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/49574_PV.flac",
+        "labels": "present-holosystolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/29045_PV.flac",
+        "labels": "present-holosystolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50736_PV.flac",
+        "labels": "present-holosystolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84714_TV.flac",
+        "labels": "present-holosystolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/49994_AV.flac",
+        "labels": "present-holosystolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85198_MV.flac",
+        "labels": "present-holosystolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/49900_AV.flac",
+        "labels": "present-holosystolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/46579_PV.flac",
+        "labels": "present-holosystolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/68560_MV.flac",
+        "labels": "present-holosystolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50735_TV.flac",
+        "labels": "present-holosystolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/69155_MV.flac",
+        "labels": "present-holosystolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/68708_AV.flac",
+        "labels": "present-holosystolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/49748_MV.flac",
+        "labels": "present-holosystolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50099_PV.flac",
+        "labels": "present-holosystolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85198_PV.flac",
+        "labels": "present-holosystolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/68423_MV.flac",
+        "labels": "present-holosystolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84834_TV.flac",
+        "labels": "present-holosystolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85219_MV.flac",
+        "labels": "present-holosystolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50319_AV.flac",
+        "labels": "present-holosystolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84885_MV.flac",
+        "labels": "present-holosystolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50161_MV.flac",
+        "labels": "present-holosystolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84892_MV.flac",
+        "labels": "unknown"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84765_AV.flac",
+        "labels": "unknown"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/68347_MV.flac",
+        "labels": "unknown"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50626_MV.flac",
+        "labels": "unknown"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/68796_TV.flac",
+        "labels": "unknown"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85229_TV.flac",
+        "labels": "unknown"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84984_PV.flac",
+        "labels": "unknown"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/68175_MV.flac",
+        "labels": "unknown"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85155_AV.flac",
+        "labels": "unknown"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84875_TV.flac",
+        "labels": "unknown"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84837_PV.flac",
+        "labels": "unknown"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/68175_AV.flac",
+        "labels": "unknown"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84746_PV.flac",
+        "labels": "unknown"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/49669_PV.flac",
+        "labels": "unknown"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50636_MV.flac",
+        "labels": "unknown"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/39456_PV.flac",
+        "labels": "unknown"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85227_TV.flac",
+        "labels": "unknown"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/68175_TV.flac",
+        "labels": "unknown"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84950_AV.flac",
+        "labels": "unknown"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/76758_MV.flac",
+        "labels": "unknown"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50152_MV.flac",
+        "labels": "unknown"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84983_PV.flac",
+        "labels": "unknown"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84950_PV.flac",
+        "labels": "unknown"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/68175_PV.flac",
+        "labels": "unknown"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/68864_MV.flac",
+        "labels": "unknown"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/49607_MV.flac",
+        "labels": "unknown"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84988_PV.flac",
+        "labels": "unknown"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85081_AV.flac",
+        "labels": "unknown"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/69060_MV.flac",
+        "labels": "unknown"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/49638_AV.flac",
+        "labels": "unknown"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84995_MV.flac",
+        "labels": "unknown"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84720_AV.flac",
+        "labels": "unknown"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/61117_PV.flac",
+        "labels": "present-early-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50238_AV.flac",
+        "labels": "present-early-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50332_MV.flac",
+        "labels": "present-early-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/68425_MV.flac",
+        "labels": "present-early-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50258_PV.flac",
+        "labels": "present-early-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/68874_PV.flac",
+        "labels": "present-early-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/68204_MV.flac",
+        "labels": "present-early-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84695_PV.flac",
+        "labels": "present-early-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50054_AV.flac",
+        "labels": "present-early-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85343_PV.flac",
+        "labels": "present-early-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85269_PV.flac",
+        "labels": "present-early-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84896_PV.flac",
+        "labels": "present-early-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84937_MV.flac",
+        "labels": "present-early-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/68255_AV.flac",
+        "labels": "present-early-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85069_TV.flac",
+        "labels": "present-early-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85079_PV.flac",
+        "labels": "present-early-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/49931_TV.flac",
+        "labels": "present-early-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50289_AV.flac",
+        "labels": "present-early-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50757_PV.flac",
+        "labels": "present-early-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50256_AV.flac",
+        "labels": "present-early-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85042_MV.flac",
+        "labels": "present-early-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85042_TV.flac",
+        "labels": "present-early-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84702_MV.flac",
+        "labels": "present-early-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/77373_MV.flac",
+        "labels": "present-early-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/61117_TV.flac",
+        "labels": "present-early-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84896_TV.flac",
+        "labels": "present-early-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50676_TV.flac",
+        "labels": "present-early-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/68432_TV.flac",
+        "labels": "present-early-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/49989_MV.flac",
+        "labels": "present-early-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85057_PV.flac",
+        "labels": "present-early-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/69096_PV.flac",
+        "labels": "present-early-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85135_PV.flac",
+        "labels": "present-early-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50280_AV.flac",
+        "labels": "present-early-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85057_TV.flac",
+        "labels": "present-early-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/68255_MV.flac",
+        "labels": "present-early-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50332_AV.flac",
+        "labels": "present-early-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/50326_MV.flac",
+        "labels": "present-early-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85108_PV.flac",
+        "labels": "present-early-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/49931_AV.flac",
+        "labels": "present-early-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84695_AV.flac",
+        "labels": "present-early-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84853_AV.flac",
+        "labels": "present-early-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85108_MV.flac",
+        "labels": "present-early-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84840_MV.flac",
+        "labels": "present-mid-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/49754_PV.flac",
+        "labels": "present-mid-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/57700_PV.flac",
+        "labels": "present-mid-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/68456_MV.flac",
+        "labels": "present-mid-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/49712_MV.flac",
+        "labels": "present-mid-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84751_PV.flac",
+        "labels": "present-mid-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/68303_AV.flac",
+        "labels": "present-mid-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85004_MV.flac",
+        "labels": "present-mid-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/49897_AV.flac",
+        "labels": "present-mid-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/49712_PV.flac",
+        "labels": "present-mid-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/84751_MV.flac",
+        "labels": "present-mid-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/68303_TV.flac",
+        "labels": "present-mid-systolic"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85119_TV.flac",
+        "labels": "present"
+    },
+    {
+        "wav": "/files1/earbud_classification/audio_mamba/data/eval/85132_TV.flac",
+        "labels": "present-late-systolic"
+    }
+]
